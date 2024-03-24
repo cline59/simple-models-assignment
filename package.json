@@ -10,9 +10,9 @@
     "test": "echo \"tests complete\""
   },
   "author": "Cody Van De Mark / Austin Willoughby",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "devDependencies": {
-    "eslint": "^8.56.0",
+    "eslint": "^8.57.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.29.1",
     "nodemon": "^3.0.3"
@@ -24,5 +24,13 @@
     "express-handlebars": "^7.1.2",
     "mongoose": "^8.1.2",
     "serve-favicon": "^2.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cline59/simple-models-assignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cline59/simple-models-assignment/issues"
+  },
+  "homepage": "https://github.com/cline59/simple-models-assignment#readme"
 }
